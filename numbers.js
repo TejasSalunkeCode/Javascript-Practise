@@ -4,5 +4,5 @@ let counts={};
 for(let element of numbers){
     counts[element]=(counts[element] || 0)+1;
 }
-
 console.log(counts);
+
