@@ -28,3 +28,5 @@ const validateCreditCard=(str)=>{
 }
 
 console.log(validateCreditCard("4539 1488 0343 6467"));
+
+console.log(validateCreditCard("8273 1232 7352 0569"));
